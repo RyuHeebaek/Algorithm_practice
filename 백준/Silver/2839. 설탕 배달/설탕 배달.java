@@ -6,17 +6,17 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
-        int count = Integer.MAX_VALUE;
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if((i*5 + j*3) == n){
-                    count = Math.min(count,i+j);
-                }
+        int count = 0;
+        
+        while(n>=0){
+            if(n%5 == 0){
+                count += n/5;
+                System.out.println(count);
+                return;
             }
+            n -= 3;
+            count ++;
         }
-        if(count>n){
-            System.out.println(-1);
-        } else System.out.println(count);
+        System.out.println(-1);
     }
 }
