@@ -5,7 +5,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class GasPipe_BeakJoon {
+public class BOJ_2931_GasPipe {
 	
 	static char[] pipes = {'|', '-', '+', '1', '2', '3', '4'};
 	static char[][] fild;

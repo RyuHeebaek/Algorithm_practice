@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class BaekJoon_4485 {
+public class BOJ_4485 {
 	
 	static int[] dx = {1, 0, -1, 0};
 	static int[] dy = {0, 1, 0, -1};
