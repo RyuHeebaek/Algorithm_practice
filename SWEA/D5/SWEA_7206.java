@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-class Solution{
+public class SWEA_7206{
 	
 	static int[] memo = new int[100000];
 	

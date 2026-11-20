@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class SWEA_1217 {
+public class SWEA_1217 {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

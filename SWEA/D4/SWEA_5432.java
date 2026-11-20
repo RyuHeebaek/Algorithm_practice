@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class SWEA_5432 {
+public class SWEA_5432 {
 
     static Stack<Character> stack = new Stack<>();
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

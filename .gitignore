@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE workspace settings
+.idea/
+*.iml
+.metadata/
+.classpath
+.project
+.settings/
+.vscode/
+
+# Compiled output
+*.class
+out/
+bin/
+build/
+target/
+
+# Local scratch solution
+/Solving.java

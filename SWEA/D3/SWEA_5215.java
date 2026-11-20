@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-class SWEA_5215{
+public class SWEA_5215{
 
     static int n, k;
     static int[] cal;

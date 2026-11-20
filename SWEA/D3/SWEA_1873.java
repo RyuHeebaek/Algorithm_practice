@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class SWEA_1873 {
+public class SWEA_1873 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();

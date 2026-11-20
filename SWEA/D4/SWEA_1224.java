@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-class SWEA_1224{
+public class SWEA_1224{
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int[] arr;

@@ -11,7 +11,7 @@ class Node{
 }
 
 
-class SWEA_1868 {
+public class SWEA_1868 {
 	
 	static boolean[][] visited;
 	static char[][] fild;

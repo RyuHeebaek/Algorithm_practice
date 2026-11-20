@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class SWEA_1208 {
+public class SWEA_1208 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
