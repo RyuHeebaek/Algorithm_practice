@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+
+# IDE workspace settings
+.idea/
+*.iml
+.metadata/
+.classpath
+.project
+.settings/
+
+# Compiled output
+*.class
+out/
+bin/
+
+# Local scratch solution
+/Solving.java
