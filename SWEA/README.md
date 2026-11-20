@@ -40,11 +40,8 @@ SWEA/
 ├── D5/                  # 고급
 ├── D8/                  # Gravity
 ├── 역량테스트/          # 샘플·모의 SW 역량테스트
-├── CodeTree/            # CodeTree 학습 코드
 ├── drafts/              # 로컬 미완성 초안 (.java.txt)
 ├── docs/                # 병합 및 검증 기록
-├── BaekJoon_4485.java    # 백준 풀이
-├── GasPipe_BeakJoon.java # 백준 풀이
 └── README.md
 ```
 
@@ -198,15 +195,17 @@ SWEA/
 ## 병합 기록과 로컬 코드
 
 - [2026-11-10 병합 보고서](./docs/MERGE_2026-11-10.md): 파일별 처리, 중복 근거, 검증 결과와 남은 문제.
-- [CodeTree 나이트 이동 코드](./CodeTree/codeTree_Int.java).
+- [CodeTree 나이트 이동 코드](../CodeTree/codeTree_Int.java).
 - [1873번 로컬 초안](./drafts/SWEA_1873.java.txt)과 [5658번 로컬 초안](./drafts/SWEA_5658_Solving.java.txt)은 원본 그대로 보관합니다. `.java.txt`는 실행 대상이 아닙니다.
 
 ## 🔖 함께 보관한 백준 풀이
 
+두 풀이는 저장소 전체의 [`백준/`](../백준/) 폴더로 옮기고 파일명을 `BOJ`로 바꿨습니다. 풀이 내용은 그대로입니다.
+
 | 문제 | 코드 |
 | --- | --- |
-| 4485. 녹색 옷 입은 애가 젤다지? | [BaekJoon_4485.java](./BaekJoon_4485.java) |
-| 가스관 | [GasPipe_BeakJoon.java](./GasPipe_BeakJoon.java) |
+| [Gold IV] 4485. 녹색 옷 입은 애가 젤다지? | [BOJ_4485.java](../백준/Gold/4485. 녹색 옷 입은 애가 젤다지/BOJ_4485.java) |
+| [Gold II] 2931. 가스관 | [BOJ_2931_GasPipe.java](../백준/Gold/2931. 가스관/BOJ_2931_GasPipe.java) |
 
 ---
 
