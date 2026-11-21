@@ -7,7 +7,6 @@
 <a href="https://solved.ac/profile/daniel00418"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=daniel00418" alt="solved.ac daniel00418" height="170"/></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solutions](https://img.shields.io/badge/Java%20solutions-166-4B8BBE?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/RyuHeebaek/Algorithm_practice?style=flat-square&color=2F80ED)
 
