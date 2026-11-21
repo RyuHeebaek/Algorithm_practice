@@ -7,7 +7,7 @@
 <a href="https://solved.ac/profile/daniel00418"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=daniel00418" alt="solved.ac daniel00418" height="170"/></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Solutions](https://img.shields.io/badge/Java%20solutions-166-4B8BBE?style=flat-square)
+![Solutions](https://img.shields.io/badge/Java%20solutions-177-4B8BBE?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/RyuHeebaek/Algorithm_practice?style=flat-square&color=2F80ED)
 
 </div>
@@ -18,7 +18,7 @@
 
 | 플랫폼 | 폴더 | 구성 | 풀이 파일 |
 | :--- | :--- | :--- | ---: |
-| **BOJ** (Baekjoon Online Judge) | [`BOJ/`](BOJ/) | `Bronze` 17 · `Silver` 48 · `Gold` 11 | **76** |
+| **BOJ** (Baekjoon Online Judge) | [`BOJ/`](BOJ/) | `Bronze` 17 · `Silver` 59 · `Gold` 11 | **87** |
 | **Programmers** | [`Programmers/`](Programmers/) | `Lv0` 2 · `Lv1` 6 · `Lv2` 5 | **13** |
 | **SWEA** (SW Expert Academy) | [`SWEA/`](SWEA/) | `D1`~`D5` · `D8` · `MockTest` | **67** |
 | **CodeTree** | [`CodeTree/`](CodeTree/) | `Chapter` · `GapCheck` · `Intermediate` · `Trail2` | **10** Java · 11 Python |
@@ -119,15 +119,16 @@ Algorithm_practice/
 
 1. IntelliJ IDEA에서 저장소를 열고 실행할 파일을 고릅니다.
 2. `main` 메서드를 실행하고 문제의 입력을 넣습니다.
-3. 모든 `.java` 파일은 `javac` 기준 문법 검사를 통과합니다(2026-11-20, JDK 21).
+3. 모든 `.java` 파일은 `javac` 기준 문법 검사를 통과합니다(2026-11-21 재검증, JDK 21).
 
 ## 🔄 히스토리
 
 - **2026-11-20** · `SWEA`, `CodeTree` 저장소를 `git subtree`로 합쳤습니다(두 저장소의 커밋 기록 유지).
 - **2026-11-20** · 흩어져 있던 BOJ 풀이를 `BOJ/`로 모으고 `BaekJoon`·`BeakJoon` 표기를 `BOJ`로 통일했습니다.
 - **2026-11-20** · 플랫폼 폴더·파일 이름 규칙을 통일했습니다(`BOJ_`, `PG_`, `SWEA_`, `CodeTree_`, 레벨 폴더 `Lv0~Lv2`, SWEA `MockTest`).
+- **2026-11-21** · BaekjoonHub가 루트에 다시 만든 `백준/`의 Silver 11문제를 `BOJ/Silver/`로 옮기고 `BOJ_<번호>.java` 규칙에 맞췄습니다(클래스명 포함).
 
 ## 📌 참고
 
-- BaekjoonHub를 계속 쓰면 새 풀이가 `백준/`, `프로그래머스/` 폴더로 다시 들어옵니다. 그때는 `BOJ/`, `Programmers/`로 옮기고 파일명 규칙만 맞춰 주면 됩니다.
+- BaekjoonHub를 계속 쓰면 새 풀이가 `백준/`, `프로그래머스/` 폴더로 다시 들어옵니다. 그때는 `BOJ/`, `Programmers/`로 옮기고 파일명 규칙만 맞춰 주면 됩니다(2026-11-21에도 11문제를 이 방식으로 정리).
 - `SWEA/docs/drafts/`의 `.java.txt`는 작성 중이던 초안이라 실행 대상이 아닙니다.
